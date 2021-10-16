@@ -1,0 +1,1 @@
+"D:\微信小程序\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-6gcluxhsabef224b --n quickstartFunctions --r --project "C:\Users\Knot\WeChatProjects\LabAdmin" --report_start --report
